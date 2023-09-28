@@ -2,7 +2,7 @@
 
 ## Description
 
-This Breakdance website builder plugin dynamically toggles the visibility of the top bar and ensures that sidebars are consistently displayed upon page load. It is ideal for users seeking a more streamlined and personalized UI/UX within their WordPress admin pages. This plugin utilizes jQuery for front-end interactions
+This Breakdance website builder plugin dynamically toggles the visibility of the top bar and ensures that sidebars are consistently displayed upon page load. It is ideal for users seeking a more streamlined and personalized UI/UX within their WordPress admin pages. I also added a button for closing the left panel from element panel detail, so that it can be used even when the top bar is hidden. If you want to show the panel again, use the keyboard shortcut CTRL + A or CMD + A (like Add). This plugin utilizes jQuery for front-end interactions
 
 ## Features
 
