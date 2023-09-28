@@ -8,7 +8,9 @@ This Breakdance website builder plugin dynamically toggles the visibility of the
 
 - Hides the topbar on demand
 - Adds a 'show' button to toggle the topbar back on
+- Adds a 'close' button to elements panel
 - Ensures sidebars are always visible
+  
 
 ## Installation
 
