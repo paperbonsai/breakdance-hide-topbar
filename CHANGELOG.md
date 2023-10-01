@@ -8,3 +8,10 @@
 
 ## [1.3] - 2023-09-30
 - Added: Closing left tab after clicking on ADD and new element if topbar is off
+
+## [1.4] - 2023-10-1
+- Added: Closing left tab after clicking on ADD and new element if topbar is off
+- Added: a button to open the frontend in a new tab (next to the settings button).
+- Added: Script now loads only in the builder for optimized performance.
+- Added: Page with sidebar settings (in admin)
+- Added: Implemented a check for the activation of Breakdance plugin.
