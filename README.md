@@ -10,6 +10,9 @@ This Breakdance website builder plugin dynamically toggles the visibility of the
 - Adds a 'show' button to toggle the topbar back on
 - Adds a 'close' button to elements panel
 - Ensures sidebars are always visible
+- Adds a button to open the frontend in a new tab (next to the settings button)
+- Script now loads only in the builder for optimized performance.
+- Adds a page with builder sidebars settings (in admin → settings)
   
 
 ## Installation
